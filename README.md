@@ -6,4 +6,4 @@
 - pkg install git -y
 - git clone https://github.com/PaNdAxAk/N-Track
 - cd N-Track
-- python N.py
+- python n.py
